@@ -3,4 +3,4 @@
 Using Swift to create a deck of cards. Provides methods to manipulate the deck. 
 All methods are unit tested.
 
-Run with XCode 9.0+.
+Run the .playground file with XCode 9.0+.
